@@ -1,0 +1,61 @@
+.main {
+    background-color: white;
+    margin: 150px;
+    margin-right: 300px;
+    margin-left: 300px;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-radius: 20px;
+    border: 3px solid;
+
+}
+
+header {
+    background-color: red;
+    border-top-right-radius: 18px;
+    border-top-left-radius: 18px;
+    border-bottom: 40px;
+    padding: 0;
+}
+
+.Hello {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 55px;
+    color: white;
+    padding-top: 5px;
+}
+
+.mynameis {
+    font-family: sans-serif;
+    text-align: center;
+    padding-bottom: 5px;
+    font-size: 25px;
+    color: white
+
+}
+
+
+.Zach {
+    font-family: 'Calligraffitti', cursive;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 150%;
+    margin-top: 10px;
+    top: 40px;
+    
+}
+
+.footer {
+    background-color: red;
+    border-top: 40px solid red;
+    border-bottom: 10px solid red;
+    margin-top: 30px;
+    width: 100%;
+    padding-bottom: 0;
+    padding-top: 5px;
+    border-bottom-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    
+}
